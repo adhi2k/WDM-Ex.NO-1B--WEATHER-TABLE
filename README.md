@@ -42,10 +42,10 @@ Training Data Set  Weather Table
 
 
 
-Output:
+### Output:
 <img width="941" height="565" alt="image" src="https://github.com/user-attachments/assets/d511b42b-a4e7-43ab-88f1-6ce5818959a8" />
 
 
 
-Result:
+### Result:
 Thus the weather table has been created successfully using weka tool.
