@@ -8,8 +8,8 @@ Steps:
 1)	Open Start  Programs  Accessories  Notepad
 2)	Type the following training data set with the help of Notepad for Weather Table.
 
-@relation weather
-```@attribute outlook {sunny,rainy,overcast} 
+```@relation weather
+@attribute outlook {sunny,rainy,overcast} 
 @attribute temparature numeric
 @attribute humidity numeric
 @attribute windy {true,false} 
