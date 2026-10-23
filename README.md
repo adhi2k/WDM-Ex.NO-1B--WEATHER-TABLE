@@ -35,6 +35,7 @@ rainy,75.0,80.0,false,yes
 8)	Click on edit button which shows weather table on weka.
  
 Training Data Set  Weather Table
+
 <img width="734" height="786" alt="image" src="https://github.com/user-attachments/assets/6b9fc32f-5617-4065-959b-89fe43ba4e4e" />
 
 
