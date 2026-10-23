@@ -9,6 +9,8 @@ Steps:
 2)	Type the following training data set with the help of Notepad for Weather Table.
 
 ```@relation weather
+@relation weather_play
+
 @attribute outlook {sunny,rainy,overcast} 
 @attribute temparature numeric
 @attribute humidity numeric
